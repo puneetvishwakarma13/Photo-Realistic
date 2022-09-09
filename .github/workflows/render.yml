@@ -32,6 +32,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run
-        run: blender -b untitled.blend -a
+        run: blender -b untitled.blend -f 1
 
 
